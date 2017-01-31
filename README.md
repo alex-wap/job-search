@@ -2,7 +2,7 @@
 
 ## Overview
 1. Finish at least two projects.
-2. Deploy your projects.
+2. [Deploy your projects.](github.com/alex-wap/subdomains)
 3. Update your resume. [Resume Template](https://docs.google.com/document/d/1_uPwqFk3YQqTd_JR-cYLRHH3gu2_Hdk4Zs4pfKg8jEc/edit#)
 4. Update your [LinkedIn](https://github.com/alex-wap/job-search/tree/master/linkedin).
 5. Start applying to companies.
