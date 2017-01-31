@@ -31,7 +31,7 @@
   * Technical Recruiters on LinkedIn
 
 ## Additional Reading
-[Baseline for Front End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers)
-[Awesome Stuff](https://github.com/sindresorhus/awesome)
-[I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.l0bhwcp0y)
+* [Baseline for Front End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers)
+* [Awesome Stuff](https://github.com/sindresorhus/awesome)
+* [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.l0bhwcp0y)
 
