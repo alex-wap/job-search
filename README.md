@@ -24,6 +24,7 @@
   * [Tushar Roy - YouTube](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
   * [My Code School Data Structures - YouTube](https://www.youtube.com/watch?v=92S4zgXN17o)
   * [Berkeley Algorithms](https://people.eecs.berkeley.edu/~jrs/170/)
+  * [Notes from Reddit](https://docs.google.com/document/d/1VNoEUzBtyCw0fDw0X_bvuhmCwz1qhNjETPJc5VRZqm8/edit)
 8. Network
   * Informational Interviews
   * Meetups
@@ -35,3 +36,4 @@
 * [Awesome Stuff](https://github.com/sindresorhus/awesome)
 * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.l0bhwcp0y)
 * [How to Land a Top Notch Tech Job](https://medium.freecodecamp.com/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d#.4g995nlp9)
+* [A Comprehensive Guide To Getting An Internship](https://www.google.com/url?hl=en&q=https://www.reddit.com/r/cscareerquestions/comments/5rc9z8/a_comprehensive_guide_to_getting_an_internship/&source=gmail&ust=1486068082727000&usg=AFQjCNGZ9JlsK19ab4hk1YSQ8X3iIZwpMw)
