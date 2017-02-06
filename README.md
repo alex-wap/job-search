@@ -14,6 +14,7 @@
   * Angel List
   * [LinkedIn](https://github.com/alex-wap/job-search/tree/master/linkedin)
   * [Easy Application](https://github.com/j-delaney/easy-application)
+  * [CS Jobs](https://csjobs.co/)
   * Monster, Indeed, and Dice
 6. Create a Portfolio.
 7. Brush up technical skills.
