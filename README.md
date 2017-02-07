@@ -15,6 +15,7 @@
   * [LinkedIn](https://github.com/alex-wap/job-search/tree/master/linkedin)
   * [Easy Application](https://github.com/j-delaney/easy-application)
   * [CS Jobs](https://csjobs.co/)
+  * [Who Is Hiring?](https://whoishiring.io/)
   * Monster, Indeed, and Dice
 6. Create a Portfolio.
 7. Brush up technical skills.
