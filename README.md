@@ -32,6 +32,7 @@
   * [Reddit - Here's How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
   * [Google's Technical Development Guide](https://www.google.co.in/about/careers/students/guide-to-technical-development.html)
   * [Python Tutor](http://pythontutor.com/)
+  * [Moderately Useful Interview Guide - Reddit](https://www.reddit.com/r/cscareerquestions/comments/5so77y/moderately_useful_interview_guide/)
 8. Network
   * Informational Interviews
   * Meetups
