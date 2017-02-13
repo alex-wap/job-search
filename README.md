@@ -50,3 +50,4 @@
 * [Hired in Tech](https://www.hiredintech.com/)
 * [Interview Cake](https://www.interviewcake.com/)
 * [Negotiation](https://www.reddit.com/r/cscareerquestions/comments/5s1rd1/why_do_companies_working_with_3rd_party/ddbtmko/)
+* [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
