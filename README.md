@@ -33,6 +33,7 @@
   * [Google's Technical Development Guide](https://www.google.co.in/about/careers/students/guide-to-technical-development.html)
   * [Python Tutor](http://pythontutor.com/)
   * [Moderately Useful Interview Guide - Reddit](https://www.reddit.com/r/cscareerquestions/comments/5so77y/moderately_useful_interview_guide/)
+  * [Interview Questions - Reddit](https://www.reddit.com/r/cscareerquestions/comments/5trek0/what_are_some_interview_questions_that_a_good/)
 8. Network
   * Informational Interviews
   * Meetups
