@@ -52,3 +52,4 @@
 * [Interview Cake](https://www.interviewcake.com/)
 * [Negotiation](https://www.reddit.com/r/cscareerquestions/comments/5s1rd1/why_do_companies_working_with_3rd_party/ddbtmko/)
 * [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
+* [C# Interview Questions - Reddit](https://www.reddit.com/r/cscareerquestions/comments/5va5yr/how_to_prepare_for_net_and_c_interview_as_a_js/de0i1qm/)
