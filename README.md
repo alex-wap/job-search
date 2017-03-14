@@ -54,3 +54,4 @@
 * [Coding Interview Tips](https://www.interviewcake.com/coding-interview-tips)
 * [C# Interview Questions - Reddit](https://www.reddit.com/r/cscareerquestions/comments/5va5yr/how_to_prepare_for_net_and_c_interview_as_a_js/de0i1qm/)
 * [Interview Tips - Reddit](https://www.reddit.com/r/cscareerquestions/comments/5w2oyn/sharing_some_interview_tips/)
+* [Interview Question Cheat Sheet - Reddit](https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive/)
