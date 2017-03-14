@@ -19,6 +19,7 @@
   * Monster, Indeed, and Dice
 6. Create a Portfolio.
 7. Brush up technical skills.
+  * [Everything you need to know to get a job](https://github.com/kdn251/Interviews)
   * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
   * [Leetcode](https://leetcode.com/)
   * [Front End Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
