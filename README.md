@@ -57,3 +57,4 @@
 * [Interview Tips - Reddit](https://www.reddit.com/r/cscareerquestions/comments/5w2oyn/sharing_some_interview_tips/)
 * [Interview Question Cheat Sheet - Reddit](https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive/)
 * [Leetcode problems classified by company](http://www.learn4master.com/interview-questions/leetcode/leetcode-problems-classified-by-company)
+* [My Journey to Facebook](https://www.reddit.com/r/cscareerquestions/comments/6278bi/my_journey_and_tips_29_gpa_at_a_noname_liberal/)
