@@ -16,7 +16,6 @@
   * [Easy Application](https://github.com/j-delaney/easy-application)
   * [CS Jobs](https://csjobs.co/)
   * [Who Is Hiring?](https://whoishiring.io/)
-  * Monster, Indeed, and Dice
 6. Create a Portfolio.
 7. Brush up technical skills.
   * [Data Structures for  Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
