@@ -19,6 +19,7 @@
   * Monster, Indeed, and Dice
 6. Create a Portfolio.
 7. Brush up technical skills.
+  * [Data Structures for  Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
   * [Everything you need to know to get a job](https://github.com/kdn251/Interviews)
   * [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
   * [Leetcode](https://leetcode.com/)
