@@ -16,6 +16,7 @@
   * [Easy Application](https://github.com/j-delaney/easy-application)
   * [CS Jobs](https://csjobs.co/)
   * [Who Is Hiring?](https://whoishiring.io/)
+  * [Junior Dev Jobs](https://www.jrdevjobs.com/)
 6. Create a Portfolio.
 7. Brush up technical skills.
   * [Data Structures for  Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
