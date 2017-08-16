@@ -1,6 +1,12 @@
 # LinkedIn Tips
 For tips to building your LinkedIn page, click [here](#linkedin-format) or scroll down to [LinkedIn Format](#linkedin-format).
 
+## Open to Job Opportunities
+This setting allows recruiters to search for you.
+http://www.linkedin.com/psettings/privacy >> "Job seeking" >> "Let recruiters know you're open to opportunities"
+![open-to-jobs](https://github.com/alex-wap/job-search/tree/master/linkedin/open-to-jobs.png)
+
+
 ## Finding Recruiters
 * Use LinkedIn advanced search: 
   * "Technical recruiter" for the current title 
