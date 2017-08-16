@@ -3,9 +3,12 @@ For tips to building your LinkedIn page, click [here](#linkedin-format) or scrol
 
 ## Open to Job Opportunities
 This setting allows recruiters to search for you.
-http://www.linkedin.com/psettings/privacy >> "Job seeking" >> "Let recruiters know you're open to opportunities"
-![open-to-jobs](https://github.com/alex-wap/job-search/tree/master/linkedin/open-to-jobs.png)
 
+
+http://www.linkedin.com/psettings/privacy >> "Job seeking" >> "Let recruiters know you're open to opportunities"
+
+
+![open to jobs](https://github.com/alex-wap/job-search/blob/master/linkedin/open-to-jobs.png "open to jobs")
 
 ## Finding Recruiters
 * Use LinkedIn advanced search: 
